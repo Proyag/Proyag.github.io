@@ -27,10 +27,10 @@ redirect_from:
 * Flow Shop Scheduling Optimisation using Natural Algorithms
   * Optimisation of flow shop scheduling on the basis of makespan computation using natural (genetic) algorithms.
   * [Open-source implementation](https://github.com/Proyag/FlowShopProject) based on Python (NumPy).
-  * With Kaustav Basu and Triparna Mukherjee.
+  * With [Kaustav Basu](http://www.public.asu.edu/~kbasu2/) and Triparna Mukherjee.
 * Traffic Rule Violation Information System (TRuVIS)
   * A device which could be placed in motor vehicles to automatically detect violation of traffic rules and report to traffic police, specifically designed for no-horn zone violations.
-  * With Kaustav Basu, Dibyabiva Seth, and Triparna Mukherjee.
+  * With [Kaustav Basu](http://www.public.asu.edu/~kbasu2/), Dibyabiva Seth, and Triparna Mukherjee.
 * Android Notifier Accessory
   * An affordable wearable Android accessory to display phone notifications on a wristwatch-like device.
-  * With Kaustav Basu and Dibyabiva Seth.
+  * With [Kaustav Basu](http://www.public.asu.edu/~kbasu2/) and Dibyabiva Seth.
