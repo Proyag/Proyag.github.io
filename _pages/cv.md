@@ -53,14 +53,18 @@ Experience
 Also see: [Projects](/projects)
 =====
   
-<!-- Technical Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Python
+  * PyTorch
+  * NumPy
+  * scikit-learn
+* C++
+  * Marian
+* Git
+* BASH
+* Perl
+* Docker
 
 Language Skills
 =====
@@ -68,6 +72,7 @@ Language Skills
 * English - Native
 * French - Intermediate (B1)
 * Hindi - Fluent
+* Chinese (Mandarin) - Basic
 
 <!-- Publications
 ======
