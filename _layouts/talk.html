@@ -32,6 +32,9 @@ layout: default
           {% endif %}
         {% if page.modified %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
+        {% elsif page.start_date and page.end_date %}
+          <p class="page__date_range"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.start_date | date_to_xmlschema }}">{{ page.start_date | date: "%B %Y" }}</time>
+            — <time datetime="{{ page.end_date | date_to_xmlschema }}">{{ page.end_date | date: "%B %Y" }}</time></p>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
         {% endif %}
