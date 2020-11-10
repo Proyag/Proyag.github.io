@@ -9,4 +9,4 @@ institution: "St. Xavier's College, Kolkata"
 
 An affordable wearable Android accessory to display phone notifications on a wristwatch-like device.
 
-With [Kaustav Basu](http://www.public.asu.edu/~kbasu2/) and Dibyabiva Seth.
+With [Kaustav Basu](http://www.public.asu.edu/~kbasu2/) and [Dibyabiva Seth](https://dibyabiva.github.io/).
