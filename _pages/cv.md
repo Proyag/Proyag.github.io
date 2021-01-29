@@ -14,9 +14,9 @@ If you'd prefer a one-page résumé: [see PDF](/files/cv.pdf).
 Education
 ======
 * **PhD in Informatics — University of Edinburgh** — 2020-2023 (expected)
-  * 3-year doctoral programme at the Institute for Language, Cognition and Computation ([ILCC](http://web.inf.ed.ac.uk/ilcc)).
-  * Working on low-resource machine translation.
-  * Supervised by Dr. [Kenneth Heafield](https://kheafield.com/) and Dr. [Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/).
+  * 3-year doctoral programme at the Institute for Language, Cognition and Computation ([ILCC](http://web.inf.ed.ac.uk/ilcc)), working with the [StatMT](https://www.wiki.ed.ac.uk/display/statmt/People) group.
+  * Working on multilingual machine translation with a focus on low-resource languages.
+  * Supervised by Dr. [Kenneth Heafield](https://kheafield.com/).
 * **MSc in Informatics — University of Edinburgh** — 2016-2017
   * 1-year postgraduate degree in Informatics, specialised in Natural Language Processing.
   * Graduated with distinction.
