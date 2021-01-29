@@ -5,6 +5,7 @@ permalink: /projects/memat
 start_date: 2017-09-01
 end_date: 2017-12-01
 institution: "University of Edinburgh"
+tag: "mt_project"
 ---
 
 EPSRC GCRF-funded project in collaboration with the University of Cape Town to build a machine translation system to facilitate communication in the medical domain between isiXhosa-speaking patients and English-speaking doctors in health centres in South Africa. I participated as a research assistant at the University of Edinburgh.

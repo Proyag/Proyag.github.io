@@ -5,6 +5,7 @@ permalink: /projects/flowshop
 start_date: 2015-07-01
 end_date: 2016-05-01
 institution: "St. Xavier's College, Kolkata"
+tag: "older_project"
 ---
 
 Optimisation of flow shop scheduling on the basis of makespan computation using natural (genetic) algorithms.

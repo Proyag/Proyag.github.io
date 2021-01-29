@@ -5,6 +5,7 @@ permalink: /projects/paracrawl
 start_date: 2020-06-01
 end_date: 2020-10-01
 institution: "TAUS"
+tag: "mt_project"
 ---
 
 Long-term EU(CEF)-funded project to collect parallel corpora from large-scale web crawls. I participated during my time as a data engineer at one of the project partners — TAUS.

@@ -3,6 +3,7 @@ title: "Traffic Rule Violation Information System (TRuVIS)"
 collection: projects
 permalink: /projects/truvis
 institution: "St. Xavier's College, Kolkata"
+tag: "older_project"
 ---
 
 A device which could be placed in motor vehicles to automatically detect violation of traffic rules and report to traffic police, specifically designed for no-horn zone violations.
