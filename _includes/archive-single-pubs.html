@@ -26,43 +26,46 @@
       </div>
     {% endif %}
 
-    <h2 itemprop="headline">{{ title }}</h2>
-
+    <h2 class="archive__item-title" itemprop="headline">
+        <a href="{{ post.paperurl }}" rel="permalink">{{ title }}</a>
+    </h2>
+  
     {% for author in post.authors %}
       {% if {{forloop.index}} == {{forloop.length}} %}
-        and {{author}}
+        and {{author}}.
       {% else %}
         {{author}}, 
       {% endif %}
     {% endfor %}
 
-    <p>Published in <i>{{ post.venue }}</i> {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    <br/>
+    Published in <i>{{ post.venue }}</i> {{ post.date | default: "1900-01-01" | date: "%Y" }}.
+    <br/>
+    {% if post.paperurl %}
+      [<a href=" {{ post.paperurl }} ">PDF</a>]
+    {% endif %}
+    {% if post.aclanthology %}
+      [<a href=" {{ post.aclanthology }} ">ACL Anthology</a>]
+    {% endif %}
+    {% if post.poster %}
+      [<a href=" {{ post.poster }} ">Poster</a>]
+    {% endif %}
+    {% if post.bibtex %}
+      [<a href=" {{ post.bibtex }} ">BibTeX</a>]
+    {% endif %}
+    {% if post.software %}
+      [<a href=" {{ post.software }} ">Software</a>]
+    {% endif %}
+    {% if post.blog %}
+      [<a href=" {{ post.blog }} ">Blog</a>]
+    {% endif %}
+
     {% if post.abstract %}
       <details>
         <summary>View abstract</summary>
         {{post.abstract}}
       </details>
     {% endif %}
-    <p>
-      {% if post.paperurl %}
-        [<a href=" {{ post.paperurl }} ">PDF</a>]
-      {% endif %}
-      {% if post.aclanthology %}
-        [<a href=" {{ post.aclanthology }} ">ACL Anthology</a>]
-      {% endif %}
-      {% if post.poster %}
-        [<a href=" {{ post.poster }} ">Poster</a>]
-      {% endif %}
-      {% if post.bibtex %}
-        [<a href=" {{ post.bibtex }} ">BibTeX</a>]
-      {% endif %}
-      {% if post.software %}
-        [<a href=" {{ post.software }} ">Software</a>]
-      {% endif %}
-      {% if post.blog %}
-        [<a href=" {{ post.blog }} ">Blog</a>]
-      {% endif %}
-    </p>
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
