@@ -31,10 +31,15 @@
     </h2>
   
     {% for author in post.authors %}
-      {% if {{forloop.index}} == {{forloop.length}} %}
-        and {{author}}.
+      {% if {{author}} == site.title %}
+        {% assign auth = author | append: "</b>" | prepend: "<b>" %}
       {% else %}
-        {{author}}, 
+        {% assign auth = author %}
+      {% endif %}
+      {% if {{forloop.index}} == {{forloop.length}} %}
+        and {{auth}}.
+      {% else %}
+        {{auth}}, 
       {% endif %}
     {% endfor %}
 
