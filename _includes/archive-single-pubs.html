@@ -39,12 +39,23 @@
       {% if {{forloop.index}} == {{forloop.length}} %}
         and {{auth}}.
       {% else %}
-        {{auth}}, 
+        {% if {{forloop.length}} < 3 %}
+          {{auth}}
+        {% else %}
+          {{auth}},
+        {% endif %} 
       {% endif %}
     {% endfor %}
 
     <br/>
-    Published in {{ post.venue }} {{ post.date | default: "1900-01-01" | date: "%Y" }}.
+    {% capture nowday %}{{'now' | date: '%d'}}{% endcapture %}
+    {% capture pubday %}{{post.date | date: '%d'}}{% endcapture %}
+    {% if nowday < pubday %}
+      To be published at 
+    {% else %}
+      Published at 
+    {% endif %}
+    {{ post.venue }} {{ post.date | date: "%Y" }}.
     <br/>
     {% if post.paperurl %}
       [<a href=" {{ post.paperurl }} ">PDF</a>]
