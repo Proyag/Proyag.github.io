@@ -48,9 +48,9 @@
     {% endfor %}
 
     <br/>
-    {% capture nowday %}{{'now' | date: '%d'}}{% endcapture %}
-    {% capture pubday %}{{post.date | date: '%d'}}{% endcapture %}
-    {% if nowday < pubday %}
+    {% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
+    {% capture pubtime %}{{post.date | date: '%s'}}{% endcapture %}
+    {% if nowtime < pubtime %}
       To be published at 
     {% else %}
       Published at 
