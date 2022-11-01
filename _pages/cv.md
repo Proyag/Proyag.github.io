@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-If you'd prefer a one-page résumé: [see PDF](/files/cv.pdf).
+[Download résumé](/files/cv.pdf)
 
 Education
 ======
@@ -31,6 +31,8 @@ Education
 
 Experience
 ======
+* **[Amazon Web Services (AWS)](https://aws.amazon.com/machine-learning/language/)** — Applied Scientist Intern — Santa Clara, Nov 2022-Feb 2023
+
 * **[TAUS](https://www.taus.net/)** — Data Engineer — Amsterdam, Jun-Oct 2020
   * Worked on the [ParaCrawl](https://www.paracrawl.eu/) project.
   * Optimised, maintained, and ran a highly scalable processing pipeline to extract, translate, align, and clean parallel corpora obtained through web crawling.
