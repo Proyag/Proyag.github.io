@@ -31,7 +31,9 @@ Education
 
 Experience
 ======
-* **[Amazon Web Services (AWS)](https://aws.amazon.com/machine-learning/language/)** — Applied Scientist Intern — Santa Clara, Nov 2022-Feb 2023
+* **[Amazon AWS AI](https://aws.amazon.com/ai/)** — Applied Scientist Intern — Santa Clara, Nov 2022-Feb 2023
+  * Worked on isochronic machine translation for automatic dubbing.
+  * Co-organised the [dubbing track ](https://iwslt.org/2023/dubbing) at IWSLT 2023.
 
 * **[TAUS](https://www.taus.net/)** — Data Engineer — Amsterdam, Jun-Oct 2020
   * Worked on the [ParaCrawl](https://www.paracrawl.eu/) project.
