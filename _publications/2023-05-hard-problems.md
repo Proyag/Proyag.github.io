@@ -1,5 +1,5 @@
 ---
-title: "Cheat Codes to Quantify Missing Source Information in Neural Machine Translation"
+title: "Cheating to Identify Hard Problems for Neural Machine Translation"
 collection: publications
 permalink: /publications/hard-problems
 authors:
