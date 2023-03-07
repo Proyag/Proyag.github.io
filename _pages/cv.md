@@ -31,6 +31,9 @@ Education
 
 Experience
 ======
+* **[University of Zurich](https://www.uzh.ch/en.html)** — Visiting Researcher — Zurich, Mar 2023-May 2023
+  * Research on machine translation, supervised by Dr. [Rico Sennrich](https://www.cl.uzh.ch/de/people/team/compling/sennrich.html) at the [Department of Computational Linguistics](https://www.cl.uzh.ch/en/texttechnologies.html).
+
 * **[Amazon AWS AI](https://aws.amazon.com/ai/)** — Applied Scientist Intern — Santa Clara, Nov 2022-Feb 2023
   * Worked on isochronous machine translation for automatic dubbing.
   * Co-organised the [dubbing track ](https://iwslt.org/2023/dubbing) at IWSLT 2023.
