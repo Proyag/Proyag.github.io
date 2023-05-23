@@ -63,6 +63,9 @@
     {% if post.aclanthology %}
       [<a href=" https://aclanthology.org/{{ post.aclanthology }} ">ACL Anthology</a>]
     {% endif %}
+    {% if post.arxiv %}
+      [<a href=" https://arxiv.org/abs/{{ post.arxiv }} ">arXiv</a>]
+    {% endif %}
     {% if post.poster %}
       [<a href=" {{ post.poster }} ">Poster</a>]
     {% endif %}
