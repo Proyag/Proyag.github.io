@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* **PhD in Informatics — University of Edinburgh** — 2020-2023 (expected)
+* **PhD in Informatics — University of Edinburgh** — 2020-2024 (expected)
   * 3-year doctoral programme at the Institute for Language, Cognition and Computation ([ILCC](http://web.inf.ed.ac.uk/ilcc)), working with the [StatMT](https://www.wiki.ed.ac.uk/display/statmt/People) group.
   * Working on using multi-encoder models to provide additional context to neural machine translation models to analyse and improve them.
   * Supervised by Dr. [Kenneth Heafield](https://kheafield.com/).
