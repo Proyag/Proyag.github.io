@@ -11,7 +11,7 @@ authors:
   - Marcello Federico
 date: 2023-08-20
 venue: "<a href ='https://www.interspeech2023.org/'>INTERSPEECH</a>"
-paperurl: 'https://www.isca-speech.org/archive/pdfs/interspeech_2023/pal23_interspeech.pdf'
+paperurl: 'https://www.isca-archive.org/interspeech_2023/pal23_interspeech.pdf'
 iscaarchive: 'interspeech_2023/pal23_interspeech.html'
 bibtex: '/files/bibtex/2023-08-isochrony-factors.bib'
 arxiv: '2305.13204'
