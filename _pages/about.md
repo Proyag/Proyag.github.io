@@ -6,7 +6,7 @@ excerpt: "About me"
 redirect_from: 
   - /about/
   - /about.html
-title: "Proyag Pal"
+title: "About me"
 ---
 
 > **I am on the job market for industry positions starting late 2024 or early 2025 - please reach out if you think we should work together!**
