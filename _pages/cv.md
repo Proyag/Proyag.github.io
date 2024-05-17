@@ -16,7 +16,7 @@ Education
 * **PhD in Informatics — University of Edinburgh** — 2020-2024 (expected)
   * 3-year doctoral programme at the Institute for Language, Cognition and Computation ([ILCC](http://web.inf.ed.ac.uk/ilcc)), working with the [StatMT](https://www.wiki.ed.ac.uk/display/statmt/People) group.
   * Working on using multi-encoder models to provide additional context to neural machine translation models to analyse and improve them.
-  * Supervised by Dr. [Kenneth Heafield](https://kheafield.com/).
+  * Supervised by [Kenneth Heafield](https://kheafield.com/) and [Alexandra Birch](https://sites.google.com/view/alexandra-birch/home).
 * **MSc in Informatics — University of Edinburgh** — 2016-2017
   * 1-year postgraduate degree in Informatics, specialised in Natural Language Processing.
   * Graduated with distinction.
@@ -31,31 +31,41 @@ Education
 
 Experience
 ======
-* **[University of Zurich](https://www.uzh.ch/en.html)** — Visiting Researcher — Zurich, Mar 2023-May 2023
-  * Research on machine translation, supervised by Dr. [Rico Sennrich](https://www.cl.uzh.ch/de/people/team/compling/sennrich.html) at the [Department of Computational Linguistics](https://www.cl.uzh.ch/en/texttechnologies.html).
+* **[Efficient Translation Limited](https://private.mt/) — Deep Learning Engineer** (part-time) — Edinburgh, Dec 2023-Apr 2024<br/>
+  Corpus extraction and efficient low-resource machine translation.
+  * Trained efficient machine translation and corpus cleaning models for low-resource language pairs.
+  * Ran and optimised an efficient scalable parallel corpus extraction pipeline on web-scale data.
+  * Delivered datasets and models to customers on time and meeting requirements
 
-* **[Amazon AWS AI](https://aws.amazon.com/ai/)** — Applied Scientist Intern — Santa Clara, Nov 2022-Feb 2023
-  * Worked on isochronous machine translation for automatic dubbing.
-  * Co-organised the [dubbing track ](https://iwslt.org/2023/dubbing) at IWSLT 2023.
+* **[University of Zurich](https://www.uzh.ch/en.html) — Visiting Researcher** — Zurich, Mar 2023-May 2023<br/>
+  Three-month visit, conducting research on detection and analysis of underspecification of the source sentence in machine translation, supervised by Dr. [Rico Sennrich](https://www.cl.uzh.ch/de/people/team/compling/sennrich.html) at the [Department of Computational Linguistics](https://www.cl.uzh.ch/en/texttechnologies.html).
 
-* **[TAUS](https://www.taus.net/)** — Data Engineer — Amsterdam, Jun-Oct 2020
-  * Worked on the [ParaCrawl](https://www.paracrawl.eu/) project.
-  * Optimised, maintained, and ran a highly scalable processing pipeline to extract, translate, align, and clean parallel corpora obtained through web crawling.
+* **[Amazon AWS AI](https://aws.amazon.com/ai/) — Applied Scientist Intern** — Santa Clara, Nov 2022-Feb 2023<br/>
+  Worked on isochronous machine translation for automatic dubbing. Co-organised the [dubbing track](https://iwslt.org/2023/dubbing) at IWSLT 2023.
 
-* **[Unbabel](https://unbabel.com/)** — Junior AI Researcher — Lisbon, Feb-Apr 2020
-  * Machine translation and Quality estimation for customer-facing product teams.
+* **[TAUS](https://www.taus.net/) — Data Engineer** — Amsterdam, Jun-Oct 2020<br/>
+  Worked on the EU-funded [ParaCrawl](https://www.paracrawl.eu/) project to collect parallel corpora from large-scale web crawls.
+  * Optimised, maintained, and ran a highly scalable processing pipeline to extract, translate, align,
+and clean parallel corpora from web crawling data.
+  * Consolidated and released the ParaCrawl corpus v7.0 and v7.1, comprising hundreds of millions
+of sentence pairs in many languages.
 
-* **[World Intellectual Property Organization (WIPO)](https://www.wipo.int)** — Fellow in Machine Translation — Geneva, Feb 2018-Jan 2020
-  * Fellow in Neural Machine Translation at the Advanced Technology Applications Center (ATAC), working on [WIPO Translate](https://www.wipo.int/wipo-translate/en/).
-  * Built, improved, evaluated and deployed domain-specific neural and statistical machine translation models using the Marian and Moses toolkits.
-  * Developed neural text classification systems for [patent categorisation](https://www.wipo.int/classifications/ipc/en/) (IPCCAT).
-  * Developed a system using BERT/XLM/LASER sentence representations and Faiss indexes to retrieve semantically similar content from large collections of text.
-  * Assisted in the adoption of Neural MT at IMF, WTO, KIPO, and some other international organisations and IP offices.
+* **[Unbabel](https://unbabel.com/) — Junior AI Researcher** — Lisbon, Feb-Apr 2020<br/>
+  Machine translation and quality estimation for customer-facing products.
+  * Built domain-specific machine translation models.
+  * Built quality estimation models to skip human post-editing for high-quality MT output.
 
-* **[University of Edinburgh](https://www.ed.ac.uk/)** — Research Assistant — Edinburgh, Sep-Dec 2017
-  * Research assistant at the [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc).
-  * Worked on an EPSRC GCRF-funded [project](https://www.cs.uct.ac.za/workshop-on-english-isixhosa-machine-translation-for-healthcare/) in collaboration with the University of Cape Town to build a machine translation system to facilitate communication in the medical domain between isiXhosa-speaking patients and English-speaking doctors in health centres in South Africa.
-  * Supervised by Dr. [Kenneth Heafield](https://kheafield.com/) and Dr. [Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/).
+* **[World Intellectual Property Organization (WIPO)](https://www.wipo.int) — Fellow in Machine Translation** — Geneva, Feb 2018-Jan 2020<br/>
+  Development and maintenance of [WIPO Translate](https://www.wipo.int/wipo-translate/en/) and related NLP tools and technologies.
+  * [*WIPO Translate*](https://www.wipo.int/ai-tools-services/en/wipo-translate.html): Built, improved, evaluated and deployed domain-specific neural and statistical machine translation models using the Marian and Moses toolkits.
+  * [*IPCCAT*](https://www.wipo.int/classifications/ipc/en/): Developed neural text classification systems for patent categorisation.
+  * Developed a system to retrieve semantically similar content from large collections of text using sentence embeddings and Faiss indexes.
+  * Instrumental in the training and deployment of neural MT systems at several other international organisations and patent offices including IMF, OECD, WTO, IAEA, and KIPO.
+
+* **[University of Edinburgh](https://www.ed.ac.uk/) — Research Assistant** — Edinburgh, Sep-Dec 2017<br/>
+  Low-resource domain-specific machine translation research on the MeMaT project. Supervised by Kenneth Heafield and Alexandra Birch.
+  * Worked on an EPSRC GCRF-funded [project](https://old.cs.uct.ac.za/workshop-on-english-isixhosa-machine-translation-for-healthcare) in collaboration with the University of Cape Town to build a machine translation system to facilitate communication in the medical domain between isiXhosa-speaking patients and English-speaking doctors in health centres in South Africa.
+  * Collected corpora released as a [public resource](https://opus.nlpl.eu/memat/corpus/version/memat).
 
 Also see: [Projects](/projects)
 =====
