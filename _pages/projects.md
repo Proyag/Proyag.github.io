@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+This page lists some projects I worked on before my PhD. For more recent work, please see my [Publications](/publications).
+
 <h2 class="archive__subtitle">MT/NLP Projects</h2> 
 {% for post in site.projects reversed %}
   {% if post.tag == 'mt_project' %}
