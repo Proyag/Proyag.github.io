@@ -31,6 +31,9 @@ Education
 
 Experience
 ======
+* **[Aveni](https://aveni.ai/) — Senior NLP Engineer** — Edinburgh, Aug 2024-present<br/>
+  NLP in the finance domain.
+
 * **[Efficient Translation Limited](https://private.mt/) — Deep Learning Engineer** (part-time) — Edinburgh, Dec 2023-Apr 2024<br/>
   Corpus extraction and efficient low-resource machine translation.
   * Trained efficient machine translation and corpus cleaning models for low-resource language pairs.
