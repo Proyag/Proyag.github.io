@@ -9,9 +9,9 @@ redirect_from:
 title: "About me"
 ---
 
-I'm a Senior NLP Engineer at [Aveni](https://aveni.ai/), building LLMs for the finance domain. This is still a new project, so more details to share in the coming months!
+I'm a Senior NLP Engineer at [Aveni](https://aveni.ai/), building [LLMs for the finance domain](https://labs.aveni.ai/#my-section).
 
-I'm still a PhD student working on **machine translation** at the [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc), which is part of the School of Informatics at the [University of Edinburgh](https://www.ed.ac.uk/). I was working under the supervision of Dr. [Kenneth Heafield](https://kheafield.com/) and Dr. [Alexandra Birch](https://sites.google.com/view/alexandra-birch) as a member of the [StatMT](https://www.wiki.ed.ac.uk/display/statmt/People) group. I have now submitted my thesis and am currently waiting for the viva to officially complete my PhD.
+I recently finished my PhD on **machine translation** at the [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc), which is part of the School of Informatics at the [University of Edinburgh](https://www.ed.ac.uk/). I was working under the supervision of Dr. [Kenneth Heafield](https://kheafield.com/) and Dr. [Alexandra Birch](https://sites.google.com/view/alexandra-birch) as a member of the [StatMT](https://www.wiki.ed.ac.uk/display/statmt/People) group.
 
 The focus of my thesis is enriching machine translation (MT) models with extra information that they need in addition to source language sentences in order to generate accurate translations. I'm particularly interested in analysis of neural MT models, multilingual and document-level machine translation, and multi-encoder neural architectures. For example, I have used multi-encoder models to provide additional context to neural MT models to analyse and improve them, created large-scale datasets for document-level MT, and worked on better ways to incorporate timing information in isochronous MT models for automatic dubbing. To see some examples of things I've worked on, have a look at my [CV](/cv), [Publications](/publications), and [Projects](/projects) pages.
 

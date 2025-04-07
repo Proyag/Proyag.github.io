@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* **PhD in Informatics — University of Edinburgh** — 2020-2024 (submitted, pending viva)
+* **PhD in Informatics — University of Edinburgh** — 2020-2024
   * 3-year doctoral programme at the Institute for Language, Cognition and Computation ([ILCC](http://web.inf.ed.ac.uk/ilcc)), working with the [StatMT](https://www.wiki.ed.ac.uk/display/statmt/People) group.
   * Working on using multi-encoder models to provide additional context to neural machine translation models to analyse and improve them.
   * Supervised by [Kenneth Heafield](https://kheafield.com/) and [Alexandra Birch](https://sites.google.com/view/alexandra-birch/home).
@@ -32,7 +32,7 @@ Education
 Experience
 ======
 * **[Aveni](https://aveni.ai/) — Senior NLP Engineer** — Edinburgh, Aug 2024-present<br/>
-  Building LLMs for NLP applications in the finance domain.
+  Building FinLLM — LLMs for NLP applications in the financial services industry.
 
 * **[Efficient Translation Limited](https://private.mt/) — Deep Learning Engineer** (part-time) — Edinburgh, Dec 2023-Apr 2024<br/>
   Corpus extraction and efficient low-resource machine translation.
