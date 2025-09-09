@@ -32,7 +32,7 @@ Education
 Experience
 ======
 * **[Aveni](https://aveni.ai/) — Senior NLP Engineer** — Edinburgh, Aug 2024-present<br/>
-  Building FinLLM — LLMs for NLP applications in the financial services industry.
+  Building FinLLM - LLMs for the financial services industry. Working across the whole model creation pipeline - on data filtering, pre-training, fine-tuning, pruning and distillation, domain adaptation, evaluation, retrieval-augmented generation.
 
 * **[Efficient Translation Limited](https://private.mt/) — Deep Learning Engineer** (part-time) — Edinburgh, Dec 2023-Apr 2024<br/>
   Corpus extraction and efficient low-resource machine translation.
@@ -76,15 +76,12 @@ Also see: [Projects](/projects)
 Technical Skills
 ======
 * Python
-  * PyTorch
-  * NumPy
-  * scikit-learn
 * C++
-  * Marian
 * Git
 * BASH
 * Perl
 * Docker
+* AWS
 
 Language Skills
 =====
