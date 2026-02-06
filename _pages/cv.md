@@ -11,28 +11,12 @@ redirect_from:
 
 [Download résumé](/files/cv.pdf)
 
-Education
-======
-* **PhD in Informatics — University of Edinburgh** — 2020-2024
-  * 3-year doctoral programme at the Institute for Language, Cognition and Computation ([ILCC](http://web.inf.ed.ac.uk/ilcc)), working with the [StatMT](https://www.wiki.ed.ac.uk/display/statmt/People) group.
-  * Working on using multi-encoder models to provide additional context to neural machine translation models to analyse and improve them.
-  * Supervised by [Kenneth Heafield](https://kheafield.com/) and [Alexandra Birch](https://sites.google.com/view/alexandra-birch/home).
-* **MSc in Informatics — University of Edinburgh** — 2016-2017
-  * 1-year postgraduate degree in Informatics, specialised in Natural Language Processing.
-  * Graduated with distinction.
-  * Courses included Machine Translation, Accelerated Natural Language Processing, Machine Learning and Pattern Recognition, Machine Learning Practical (Deep Learning).
-* **MSc in Computer Science — St. Xavier's College, Kolkata** — 2014-2016
-  * 2-year postgraduate degree in Computer Science.
-  * Graduated with 82% marks.
-  * Courses included Artificial Intelligence, Data Mining and Warehousing, Image Processing and Pattern Recognition.
-* **BSc in Computer Science — St. Xavier's College, Kolkata** — 2011-2014
-  * 3-year undergraduate degree with honours in Computer Science, and Mathematics and Physics as general subjects.
-  * Graduated with 80% marks.
-
 Experience
 ======
-* **[Aveni](https://aveni.ai/) — Senior NLP Engineer** — Edinburgh, Aug 2024-present<br/>
-  Building FinLLM - LLMs for the financial services industry. Working across the whole model creation pipeline - on data filtering, pre-training, fine-tuning, pruning and distillation, domain adaptation, evaluation, retrieval-augmented generation.
+* **[Aveni](https://aveni.ai/) — Senior AI Engineer** — Edinburgh, Aug 2024-present<br/>
+  Building [FinLLM](https://labs.aveni.ai/finllm/) - LLMs for the financial services industry.
+  * Working across the whole pipeline – data filtering, pre-training, fine-tuning, pruning and distillation, domain adaptation, evaluation, retrieval-augmented generation – to build the FinLLM suite of language models.
+  * Developing [Agent Assure](https://aveni.ai/agent-assure/) for automated safety and compliance assurance of AI agents in the financial services domain.
 
 * **[Efficient Translation Limited](https://private.mt/) — Deep Learning Engineer** (part-time) — Edinburgh, Dec 2023-Apr 2024<br/>
   Corpus extraction and efficient low-resource machine translation.
@@ -69,6 +53,24 @@ of sentence pairs in many languages.
   Low-resource domain-specific machine translation research on the MeMaT project. Supervised by Kenneth Heafield and Alexandra Birch.
   * Worked on an EPSRC GCRF-funded [project](https://old.cs.uct.ac.za/workshop-on-english-isixhosa-machine-translation-for-healthcare) in collaboration with the University of Cape Town to build a machine translation system to facilitate communication in the medical domain between isiXhosa-speaking patients and English-speaking doctors in health centres in South Africa.
   * Collected corpora released as a [public resource](https://opus.nlpl.eu/memat/corpus/version/memat).
+
+Education
+======
+* **PhD in Informatics — University of Edinburgh** — 2020-2024
+  * 3-year doctoral programme at the Institute for Language, Cognition and Computation ([ILCC](http://web.inf.ed.ac.uk/ilcc)), working with the [StatMT](https://www.wiki.ed.ac.uk/display/statmt/People) group.
+  * Working on using multi-encoder models to provide additional context to neural machine translation models to analyse and improve them. [Download Thesis](/files/phd_thesis.pdf).
+  * Supervised by [Kenneth Heafield](https://kheafield.com/) and [Alexandra Birch](https://sites.google.com/view/alexandra-birch/home).
+* **MSc in Informatics — University of Edinburgh** — 2016-2017
+  * 1-year postgraduate degree in Informatics, specialised in Natural Language Processing.
+  * Graduated with distinction.
+  * Courses included Machine Translation, Accelerated Natural Language Processing, Machine Learning and Pattern Recognition, Machine Learning Practical (Deep Learning).
+* **MSc in Computer Science — St. Xavier's College, Kolkata** — 2014-2016
+  * 2-year postgraduate degree in Computer Science.
+  * Graduated with 82% marks.
+  * Courses included Artificial Intelligence, Data Mining and Warehousing, Image Processing and Pattern Recognition.
+* **BSc in Computer Science — St. Xavier's College, Kolkata** — 2011-2014
+  * 3-year undergraduate degree with honours in Computer Science, and Mathematics and Physics as general subjects.
+  * Graduated with 80% marks.
 
 Also see: [Projects](/projects)
 =====

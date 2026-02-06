@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "ProyagPal"
+  username               : #&twitter "ProyagPal"
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Proyag Pal"
   avatar           : "3014-50.jpg"
-  bio              : "Senior NLP Engineer at Aveni"
+  bio              : "Senior AI Engineer at Aveni"
   location         : "Edinburgh, Scotland"
   employer         : "Aveni"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 9651974/proyag # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ProyagPal"
+  twitter          : #"ProyagPal"
   vine             :
   weibo            :
   xing             :
