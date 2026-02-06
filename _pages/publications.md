@@ -13,10 +13,14 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single-pubs.html %}
+  {% unless post.thesis == true %}
+    {% include archive-single-pubs.html %}
+  {% endunless %}
 {% endfor %}
 
 <h2 class="archive__subtitle">Theses</h2> 
-{% for post in site.theses reversed %}
-  {% include archive-single-pubs.html %}
+{% for post in site.publications reversed %}
+  {% if post.thesis == true %}
+    {% include archive-single-pubs.html %}
+  {% endif %}
 {% endfor %}

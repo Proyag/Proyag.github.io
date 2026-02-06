@@ -231,15 +231,6 @@ defaults:
       author_profile: true
       share: false
       comments: true
-  # _theses
-  - scope:
-      path: ""
-      type: theses
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: true
   # _portfolio
   - scope:
       path: ""
