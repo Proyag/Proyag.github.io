@@ -37,7 +37,11 @@
         {% assign auth = author %}
       {% endif %}
       {% if {{forloop.index}} == {{forloop.length}} %}
-        and {{auth}}.
+        {% if {{forloop.length}} == 1 %}
+          {{auth}}
+        {% else %}
+          and {{auth}}.
+        {% endif %}
       {% else %}
         {% if {{forloop.length}} < 3 %}
           {{auth}}
@@ -50,12 +54,16 @@
     <br/>
     {% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
     {% capture pubtime %}{{post.date | date: '%s'}}{% endcapture %}
-    {% if nowtime < pubtime %}
-      To be published at 
+    {% if post.thesis == true %}
+      {{ post.venue }} {{ post.date | date: "%Y" }}.
     {% else %}
-      Published at 
+      {% if nowtime < pubtime %}
+        To be published at 
+      {% else %}
+        Published at 
+      {% endif %}
+      {{ post.venue }} {{ post.date | date: "%Y" }}.
     {% endif %}
-    {{ post.venue }} {{ post.date | date: "%Y" }}.
     <br/>
     {% if post.paperurl %}
       [<a href=" {{ post.paperurl }} ">PDF</a>]
