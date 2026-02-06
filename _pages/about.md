@@ -9,7 +9,7 @@ redirect_from:
 title: "About me"
 ---
 
-I'm a Senior AI Engineer at [Aveni](https://aveni.ai/), building [FinLLM](https://labs.aveni.ai/finllm/) - LLMs for the financial services domain. I work across the model creation pipeline - on data filtering, pre-training, fine-tuning, pruning and distillation, domain adaptation, evaluation, and retrieval-augmented generation. I also work with the Agentic AI team to build agentic 
+I'm a Senior AI Engineer at [Aveni](https://aveni.ai/), building [FinLLM](https://labs.aveni.ai/finllm/) - LLMs for the financial services domain. I work across the model creation pipeline - on data filtering, pre-training, fine-tuning, pruning and distillation, domain adaptation, evaluation, and retrieval-augmented generation. I'm also working with the Agentic AI team to develop [Agent Assure](https://aveni.ai/agent-assure/) for automated safety and compliance assurance of AI agents in the financial services domain.
 
 I recently finished my PhD on **machine translation** at the [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc), which is part of the School of Informatics at the [University of Edinburgh](https://www.ed.ac.uk/). I was working under the supervision of Dr. [Kenneth Heafield](https://kheafield.com/) and Dr. [Alexandra Birch](https://sites.google.com/view/alexandra-birch) as a member of the [StatMT](https://www.wiki.ed.ac.uk/display/statmt/People) group.
 
